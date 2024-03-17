@@ -367,7 +367,7 @@ section {
 }
 
 .social-media-link:hover,
-.social-media-link:hover {
+.social-media-link:focus {
   background-color: #404bbf;
 }
 
