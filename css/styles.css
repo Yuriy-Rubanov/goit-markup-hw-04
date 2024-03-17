@@ -508,6 +508,10 @@ section {
   max-width: 264px;
 }
 
+.social-media-footer .social {
+  gap: 16px;
+}
+
 .social-media-ftext {
   font-weight: 500;
   font-size: 16px;
