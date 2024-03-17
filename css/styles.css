@@ -403,9 +403,7 @@ section {
 
 .portfolio-item {
   background-color: #fff;
-  transition-property: background-color box-shadow;
-  transition-duration: 250ms;
-  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-property: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .portfolio-item {
