@@ -473,7 +473,6 @@ section {
 }
 
 .footer .container {
-  display: flex;
   align-items: baseline;
   margin-left: 156px;
   margin-right: 120px;
@@ -513,6 +512,7 @@ section {
   margin-bottom: 16px;
 }
 
-.foot:hover {
+.foot:hover,
+.foot:focus {
   background-color: #31d0aa;
 }
